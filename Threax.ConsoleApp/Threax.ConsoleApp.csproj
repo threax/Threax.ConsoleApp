@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>1.0.0-pre01</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/threax/Threax.ConsoleApp</PackageProjectUrl>
+    <Copyright>Threax Software, LLC</Copyright>
+    <RepositoryUrl>https://github.com/threax/Threax.ConsoleApp</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
